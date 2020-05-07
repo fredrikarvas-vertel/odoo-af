@@ -37,11 +37,16 @@ class ResUsers(models.Model):
     @api.model
     def create_user(self, rows):
         for row in rows:
+            user_login = self.env['res.users'].search([('login', '=', row['login'])])
             partner_id = self.env.ref("test_data_af.%s" % row['partner_id']).id
             row.update({'partner_id' :  partner_id}) 
-            _logger.info("%s" % row['partner_id'])       
+            _logger.info("%s" % row['partner_id'])
             _logger.info("creating row %s" % row)
-            self.env['res.users'].create(row)
+            if not user_login:
+                self.env['res.users'].create(row)
+            else:
+                self.env['res.users'].update(row)
+                
 
 
     #create a record using data from csv
