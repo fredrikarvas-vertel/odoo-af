@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *~
+.~lock.*
 base_afdemo/data/calendar.event2.csv
 base_afdemo/data/calendar_event.csv
 base_afdemo/data/res.partner.kpi.csv
