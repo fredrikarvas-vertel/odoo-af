@@ -1,12 +1,421 @@
-"id","parent_id/id","street","zip","city","state_id/id","country_id/id","type"
-"jobseek_own_2416","jobseek_2416","glalagatan 34",12332,"FARSTA","base.state_se_0180","base.se","postal address"
-"jobseek_own_2417","jobseek_2417","Landgatan 3",12332,"FARSTA","base.state_se_0180","base.se","postal address"
-"jobseek_own_2418","jobseek_2418","Enterprisevägen 3",12332,"FARSTA","base.state_se_0180","base.se","postal address"
-"jobseek_own_2419","jobseek_2419","Sumogatan",12332,"FARSTA","base.state_se_0180","base.se","postal address"
-"jobseek_own_2420","jobseek_2420","Laservägen 234",12332,"FARSTA","base.state_se_0180","base.se","postal address"
-"jobseek_own_2421","jobseek_2421","Apvägen 3",12332,"FARSTA","base.state_se_0180","base.se","postal address"
-"jobseek_own_2422","jobseek_2422","Apvägen 534545",12332,"FARSTA","base.state_se_0180","base.se","postal address"
-"jobseek_own_2423","jobseek_2423","klossvägen 4",12332,"FARSTA","base.state_se_0180","base.se","postal address"
-"jobseek_own_2424","jobseek_2424","Asvägen 2343",12332,"FARSTA","base.state_se_0180","base.se","postal address"
-"jobseek_own_2425","jobseek_2425","Barbarvägen 23",12332,"FARSTA","base.state_se_0180","base.se","postal address"
-"jobseek_own_2426","jobseek_2426","Apvägen 35345",12332,"FARSTA","base.state_se_0180","base.se","postal address"
+id,parent_id/id,street,street2,zip,city,state_id/id,country_id/id,type,email
+jobseek_own_1,jobseek_1,Lomvägen 13,,83162,Östersund,base.state_se_0114,base.se,postal address,
+jobseek_own_3,jobseek_3,D,,11247,Stockholm,base.state_se_0115,base.se,postal address,
+jobseek_own_4,jobseek_4,M,,11247,Stockholm,base.state_se_0117,base.se,postal address,tesater3@hotmail.com
+jobseek_intl_5,jobseek_5,U89 Kalalalundom 96,Utdelningsadress,,,,base.ax,foreign address,
+jobseek_own_6,jobseek_6,Bovägen 6,,86131,TIMRÅ,base.state_se_0123,base.se,postal address,
+jobseek_own_7,jobseek_7,Blå blomvägen 1,,11342,STOCKHOLM,base.state_se_0125,base.se,postal address,stina.syren@hotmail.com
+jobseek_own_8,jobseek_8,Gatan 2,,11122,STOCKHOLM,base.state_se_0126,base.se,postal address,maria.frostensson@test.se
+jobseek_own_9,jobseek_9,testgatan 13,,11399,Stockholm,base.state_se_0127,base.se,postal address,whatever@gmail.com
+jobseek_own_10,jobseek_10,Skogsvägen 3,,14132,HUDDINGE,base.state_se_0128,base.se,postal address,
+jobseek_own_14,jobseek_14,Kyrkogatan 17,,57132,NÄSSJÖ,base.state_se_0136,base.se,postal address,
+jobseek_own_15,jobseek_15,Mariagatan 23B,,57133,NÄSSJÖ,base.state_se_0138,base.se,postal address,
+jobseek_own_16,jobseek_16,Borggatan 3,,59822,VIMMERBY,base.state_se_0139,base.se,postal address,bror@vimmerby.se
+jobseek_own_17,jobseek_17,Smulstigen 5,,56789,HAGALUND,base.state_se_0140,base.se,postal address,bo-lenn.hir@bikerider.se
+jobseek_own_18,jobseek_18,Fluktgränd 22,,44444,STENUNGSUND,base.state_se_0160,base.se,postal address,sivan@blister.kåmm
+jobseek_own_19,jobseek_19,Rövaregatan 1,,11261,STOCKHOLM,base.state_se_0162,base.se,postal address,rovare1@hotmail.com
+jobseek_own_20,jobseek_20,fdzfgd,,11629,STOCKHOLM,base.state_se_0163,base.se,postal address,
+jobseek_own_21,jobseek_21,K45,,11399,STOCKHOLM,base.state_se_0180,base.se,postal address,
+jobseek_own_22,jobseek_22,Bovägen 6,,86131,Timrå,base.state_se_0181,base.se,postal address,runeman@spray.com
+jobseek_own_23,jobseek_23,Gatan 24,,11230,Stockholm,base.state_se_0182,base.se,postal address,nagon@amv.se
+jobseek_own_24,jobseek_24,Bovägen 6,,86131,Timrå,base.state_se_0183,base.se,postal address,
+jobseek_own_25,jobseek_25,Trozeligatan 22,,60235,NORRKÖPING,base.state_se_0184,base.se,postal address,aziza.habul@lane.amv.se
+jobseek_own_26,jobseek_26,Arabiavägen 22,,12054,ÅRSTA,base.state_se_0186,base.se,postal address,liz@ams.se
+jobseek_own_27,jobseek_27,Fileterarallén 23456FG,,12052,ÅRSTA,base.state_se_0187,base.se,postal address,esme@ams.se
+jobseek_own_28,jobseek_28,Bovägen 6,,86131,Timrå,base.state_se_0188,base.se,postal address,
+jobseek_own_29,jobseek_29,Bollevarden 23,,12054,ÅRSTA,base.state_se_0191,base.se,postal address,god@ams.se
+jobseek_own_31,jobseek_31,Grannen 12,,87154,HÄRNÖSAND,base.state_se_0192,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_34,jobseek_34,Sportvägen 1,,87153,HÄRNÖSAND,base.state_se_0305,base.se,postal address,kola@ams.se
+jobseek_own_35,jobseek_35,Spåneholm Slott,,12054,Årsta,base.state_se_0319,base.se,postal address,ais.test@amc.amv.se
+jobseek_own_36,jobseek_36,Bäverstigen 18,,19477,UPPLANDS VÄSBY,base.state_se_0330,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_37,jobseek_37,Någonstans,,11230,STOCKHOLM,base.state_se_0331,base.se,postal address,olivia@ams.se
+jobseek_own_38,jobseek_38,Storgatan 23,,87140,HÄRNÖSAND,base.state_se_0360,base.se,postal address,
+jobseek_own_39,jobseek_39,Rövaregatan 11,,11261,STOCKHOLM,base.state_se_0380,base.se,postal address,
+jobseek_own_40,jobseek_40,Södergatan 10,,38531,TORSÅS,base.state_se_0381,base.se,postal address,tom.cruise@ams.amv.se
+jobseek_own_41,jobseek_41,Solvägen 11,,36044,INGELSTAD,base.state_se_0382,base.se,postal address,raad.malki@arbetsformedlingen.se
+jobseek_own_42,jobseek_42,Bebopgränden 9,,25223,HELSINGBORG,base.state_se_0428,base.se,postal address,
+jobseek_own_43,jobseek_43,Bovägen 6,,86131,Timrå,base.state_se_0461,base.se,postal address,
+jobseek_own_44,jobseek_44,Fornborgsvägen 11,,83251,FRÖSÖN,base.state_se_0480,base.se,postal address,
+jobseek_own_45,jobseek_45,Fjällglimten,,83246,FRÖSÖN,base.state_se_0481,base.se,postal address,
+jobseek_own_46,jobseek_46,Fornborgsvägen 2,,83251,FRÖSÖN,base.state_se_0482,base.se,postal address,
+jobseek_own_47,jobseek_47,Fjällglimten 2,,83246,FRÖSÖN,base.state_se_0483,base.se,postal address,bernth.hultman@arbetsformedlingen.se
+jobseek_own_48,jobseek_48,Björkrisvägen 1,,66491,GRUMS,base.state_se_0484,base.se,postal address,
+jobseek_own_49,jobseek_49,Bjälmerud 122,,66491,GRUMS,base.state_se_0486,base.se,postal address,therese_almberg@hotmail.com
+jobseek_own_50,jobseek_50,Fritzhemsgatan 3,,83242,FRÖSÖN,base.state_se_0488,base.se,postal address,Alva@home.se
+jobseek_own_51,jobseek_51,Forellvägen,,66491,GRUMS,base.state_se_0509,base.se,postal address,alma@home.se
+jobseek_own_52,jobseek_52,Fjällgatan 4,,83242,FRÖSÖN,base.state_se_0512,base.se,postal address,
+jobseek_own_53,jobseek_53,Björnevål 137,,66491,GRUMS,base.state_se_0513,base.se,postal address,alica@home.se
+jobseek_own_54,jobseek_54,Fjällgatan 11,,83242,FRÖSÖN,base.state_se_0560,base.se,postal address,
+jobseek_own_55,jobseek_55,Bovägen 6,,86131,Timrå,base.state_se_0561,base.se,postal address,
+jobseek_own_56,jobseek_56,St vägen 5,,12543,ÄLVSJÖ,base.state_se_0562,base.se,postal address,
+jobseek_own_57,jobseek_57,"Pl, 9",,92043,KRISTINEBERG,base.state_se_0563,base.se,postal address,
+jobseek_own_58,jobseek_58,Fenvägen 4,,65007,KARLSTAD,base.state_se_0580,base.se,postal address,
+jobseek_own_59,jobseek_59,"Alaskog, Vederhult",,57793,HULTSFRED,base.state_se_0581,base.se,postal address,jane.karlsson@swipnet.se
+jobseek_own_60,jobseek_60,Lingonstigen 1,,87160,HÄRNÖSAND,base.state_se_0582,base.se,postal address,
+jobseek_own_61,jobseek_61,Stubbvägen 1,,87160,HÄRNÖSAND,base.state_se_0583,base.se,postal address,info@naturacreative.com
+jobseek_own_62,jobseek_62,Hunnebergsgatan 32A,,58234,LINKÖPING,base.state_se_0584,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_63,jobseek_63,Sg,,97100,LULEÅ,base.state_se_0586,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_64,jobseek_64,Snödrivan 44,,87132,HÄRNÖSAND,base.state_se_0604,base.se,postal address,tina.joh@swipnet.se
+jobseek_own_65,jobseek_65,Daenvägen 5,,23155,TRELLEBORG,base.state_se_0617,base.se,postal address,
+jobseek_own_66,jobseek_66,Detvägen 5,,83145,ÖSTERSUND,base.state_se_0642,base.se,postal address,marie.bysteddt@arbetsformedlingen.se
+jobseek_own_67,jobseek_67,Gatan,,77777,HEMMA,base.state_se_0643,base.se,postal address,
+jobseek_own_68,jobseek_68,Taptogr 2,,83138,Östersund,base.state_se_0662,base.se,postal address,
+jobseek_own_102,jobseek_102,testvägen 12,,87161,HÄRNÖSAND,base.state_se_0665,base.se,postal address,min-adress@hemma.hem
+jobseek_own_103,jobseek_103,Storgatan 32,,11399,STOCKHOLM,base.state_se_0680,base.se,postal address,eva@ek.se
+jobseek_own_104,jobseek_104,Väktargatan 72,,75422,UPPSALA,base.state_se_0682,base.se,postal address,ulrika.konradsson@ulrika.se
+jobseek_own_105,jobseek_105,Gatan 36,,11230,STOCKHOLM,base.state_se_0683,base.se,postal address,
+jobseek_own_106,jobseek_106,stprg1,,11399,STOCKHOLM,base.state_se_0684,base.se,postal address,
+jobseek_own_107,jobseek_107,Storgatan 34,,11256,STOCKHOLM,base.state_se_0685,base.se,postal address,
+jobseek_own_108,jobseek_108,Bergsgatan 23N,,56233,NORRAHAMMAR,base.state_se_0686,base.se,postal address,
+jobseek_own_109,jobseek_109,Slottsgatan 1,,11345,STOCKHOLM,base.state_se_0687,base.se,postal address,
+jobseek_own_110,jobseek_110,Allén 34,,42354,TORSLANDA,base.state_se_0760,base.se,postal address,
+jobseek_own_111,jobseek_111,Fastlagsvägen 4,,81332,HOFORS,base.state_se_0761,base.se,postal address,
+jobseek_own_112,jobseek_112,Skådisvägen 34,,81332,HOFORS,base.state_se_0763,base.se,postal address,
+jobseek_own_113,jobseek_113,jobbvägen 2,,45121,UDDEVALLA,base.state_se_0764,base.se,postal address,majsan@majsan.se
+jobseek_own_114,jobseek_114,Deppstigen 2,,78454,BORLÄNGE,base.state_se_0765,base.se,postal address,
+jobseek_own_115,jobseek_115,Lillgränd 23,,63232,ESKILSTUNA,base.state_se_0767,base.se,postal address,
+jobseek_own_116,jobseek_116,Båggatan 34,,75263,UPPSALA,base.state_se_0780,base.se,postal address,asdasd@hhh.se
+jobseek_own_117,jobseek_117,England,,12347,FARSTA,base.state_se_0781,base.se,postal address,kola@ams.se
+jobseek_own_118,jobseek_118,Crete,,12347,FARSTA,base.state_se_0821,base.se,postal address,t@t.se
+jobseek_own_119,jobseek_119,Fotbollsvägen 3,,11216,STOCKHOLM,base.state_se_0834,base.se,postal address,
+jobseek_own_120,jobseek_120,Hemvägen 1,,86131,TIMRÅ,base.state_se_0840,base.se,postal address,
+jobseek_own_121,jobseek_121,Bagerigatan 1,,14235,SKOGÅS,base.state_se_0860,base.se,postal address,
+jobseek_own_122,jobseek_122,Cedergatan 33,,67332,Charlottenberg,base.state_se_0861,base.se,postal address,
+jobseek_own_123,jobseek_123,Gillev 18,,13133,NACKA,base.state_se_0862,base.se,postal address,
+jobseek_own_124,jobseek_124,Gillev 18,,13133,NACKA,base.state_se_0880,base.se,postal address,exempel@lanac.amv.se
+jobseek_own_125,jobseek_125,testvägen 1,,16255,VÄLLINGBY,base.state_se_0881,base.se,postal address,
+jobseek_own_126,jobseek_126,testgatan 1,,19332,SIGTUNA,base.state_se_0882,base.se,postal address,
+jobseek_own_127,jobseek_127,Bovägen 6,,86131,TIMRÅ,base.state_se_0883,base.se,postal address,
+jobseek_own_128,jobseek_128,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0884,base.se,postal address,kent.sundvik@jobb.amv.se
+jobseek_own_130,jobseek_130,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0885,base.se,postal address,
+jobseek_own_131,jobseek_131,Kungstensgatan 45,,11386,STOCKHOLM,base.state_se_0980,base.se,postal address,mums@mumsa.se
+jobseek_own_133,jobseek_133,Stora vägen 1,,14652,TULLINGE,base.state_se_1060,base.se,postal address,
+jobseek_own_134,jobseek_134,Testvägen 44,,87161,HÄRNÖSAND,base.state_se_1080,base.se,postal address,
+jobseek_own_135,jobseek_135,Testgatan 13,,12346,FARSTA,base.state_se_1081,base.se,postal address,
+jobseek_own_136,jobseek_136,Wokevägen 10,,33333,SMÅLANDSSTENAR,base.state_se_1082,base.se,postal address,
+jobseek_own_137,jobseek_137,Busvägen 33,,44444,STENUNGSUND,base.state_se_1083,base.se,postal address,
+jobseek_own_138,jobseek_138,Vättervägen 55,,44444,STENUNGSUND,base.state_se_1214,base.se,postal address,
+jobseek_own_139,jobseek_139,Kluttvägen 22,,22222,LUND,base.state_se_1230,base.se,postal address,
+jobseek_own_140,jobseek_140,Höjdgatan,,87052,NYLAND,base.state_se_1231,base.se,postal address,alf@mermac.com
+jobseek_own_141,jobseek_141,Tullgatan 14,,11399,Stockholm,base.state_se_1233,base.se,postal address,ais.test@ams.ams.se
+jobseek_own_142,jobseek_142,Ormbergsvägen 12,,11767,STOCKHOLM,base.state_se_1256,base.se,postal address,
+jobseek_own_143,jobseek_143,Ormbergsvägen 12,,11767,STOCKHOLM,base.state_se_1257,base.se,postal address,
+jobseek_own_144,jobseek_144,Ormbergsvägen 12,,11767,STOCKHOLM,base.state_se_1260,base.se,postal address,
+jobseek_own_145,jobseek_145,Ormbergsvägen 12,,11767,STOCKHOLM,base.state_se_1261,base.se,postal address,
+jobseek_own_146,jobseek_146,K45,,11399,STOCKHOLM,base.state_se_1262,base.se,postal address,
+jobseek_own_147,jobseek_147,Önsketorpet,,91299,Vilhelmina,base.state_se_1263,base.se,postal address,
+jobseek_own_148,jobseek_148,Sveavägen 78,,11399,Stockholm,base.state_se_1264,base.se,postal address,
+jobseek_own_149,jobseek_149,Riddargatan 97,,11399,Stockholm,base.state_se_1265,base.se,postal address,
+jobseek_own_150,jobseek_150,Drottninggatan,,11399,Stockholm,base.state_se_1266,base.se,postal address,
+jobseek_own_151,jobseek_151,Tegnergatan 19,,11399,Stockholm,base.state_se_1267,base.se,postal address,
+jobseek_own_152,jobseek_152,Nobelvägen 3,,11345,STOCKHOLM,base.state_se_1270,base.se,postal address,
+jobseek_own_153,jobseek_153,Årstabergsvägen 22,,12054,ÅRSTA,base.state_se_1272,base.se,postal address,
+jobseek_own_154,jobseek_154,V17,,11399,STOCKHOLM,base.state_se_1273,base.se,postal address,
+jobseek_own_156,jobseek_156,Sveavägen 97,,11399,Stockholm,base.state_se_1275,base.se,postal address,
+jobseek_own_158,jobseek_158,Karlavägen 98,,12346,Farsta,base.state_se_1276,base.se,postal address,
+jobseek_own_160,jobseek_160,Ekvägen 132,,11221,STOCKHOLM,base.state_se_1277,base.se,postal address,
+jobseek_own_161,jobseek_161,Uppgränd 22,,22222,LUND,base.state_se_1278,base.se,postal address,
+jobseek_own_162,jobseek_162,Sommarvägen 45,,11221,STOCKHOLM,base.state_se_1280,base.se,postal address,
+jobseek_own_163,jobseek_163,Ekvägen 123,,82632,Söderhamn,base.state_se_1281,base.se,postal address,
+jobseek_own_165,jobseek_165,Storvägen 2,,11399,Stockholm,base.state_se_1282,base.se,postal address,
+jobseek_own_166,jobseek_166,Ekvägenx 4,,17835,Ekerö,base.state_se_1283,base.se,postal address,
+jobseek_own_168,jobseek_168,vägen 7,,82151,bollnäs,base.state_se_1284,base.se,postal address,
+jobseek_own_169,jobseek_169,Sommarstigen 6,,11399,Stockholm,base.state_se_1285,base.se,postal address,
+jobseek_own_170,jobseek_170,dfgfg,,82151,bollnäs,base.state_se_1286,base.se,postal address,
+jobseek_own_171,jobseek_171,Nissevägen 33,,82151,Bollnäs,base.state_se_1287,base.se,postal address,staffan.svard@lanab.amv.se
+jobseek_own_172,jobseek_172,Testvägen 3,,11399,STOCKHOLM,base.state_se_1290,base.se,postal address,paris@paris.se
+jobseek_own_173,jobseek_173,Vattugatan 17,,11399,Stockholm,base.state_se_1291,base.se,postal address,
+jobseek_own_174,jobseek_174,V17,,11399,Stockholm,base.state_se_1292,base.se,postal address,
+jobseek_own_175,jobseek_175,U 51,,11328,Stockholm,base.state_se_1293,base.se,postal address,helena.testsson@test.se
+jobseek_own_176,jobseek_176,Kyrkvägen 56,,19253,sollentuna,base.state_se_1315,base.se,postal address,
+jobseek_own_177,jobseek_177,Ekvägen 1,,11122,STOCKHOLM,base.state_se_1380,base.se,postal address,
+jobseek_own_178,jobseek_178,Granvägen 123,,12100,JOHANNESHOV,base.state_se_1381,base.se,postal address,
+jobseek_own_179,jobseek_179,Testvägen 98,,11399,STOCKHOLM,base.state_se_1382,base.se,postal address,
+jobseek_own_180,jobseek_180,storg1,,11399,STOCKHOLM,base.state_se_1383,base.se,postal address,jonas.johnsson@jobb.amv.se
+jobseek_own_181,jobseek_181,Arenavägen 61,,11399,Stockholm,base.state_se_1384,base.se,postal address,
+jobseek_own_182,jobseek_182,Testvägen 89,,11399,STOCKHOLM,base.state_se_1401,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_183,jobseek_183,Storgatan 666,,17166,Solna,base.state_se_1402,base.se,postal address,
+jobseek_own_184,jobseek_184,Lillagatan 1,,17166,Solna,base.state_se_1407,base.se,postal address,
+jobseek_own_185,jobseek_185,Fornvägen 19,,58951,Linköping,base.state_se_1415,base.se,postal address,
+jobseek_own_186,jobseek_186,Fornvägen 19,,58951,Linköping,base.state_se_1419,base.se,postal address,kristasl@hotmail.com
+jobseek_own_187,jobseek_187,K45,,11399,STOCKHOLM,base.state_se_1421,base.se,postal address,ulf.thor@lane.amv.se
+jobseek_own_188,jobseek_188,K45,,11399,STOCKHOLM,base.state_se_1427,base.se,postal address,ulf.thor@lane.amv.se
+jobseek_own_189,jobseek_189,K45,,11399,STOCKHOLM,base.state_se_1430,base.se,postal address,peter.pan@telia.com
+jobseek_own_190,jobseek_190,K45,,11399,STOCKHOLM,base.state_se_1435,base.se,postal address,ulf.thor@lane.amv.se
+jobseek_own_191,jobseek_191,K45,,11399,STOCKHOLM,base.state_se_1438,base.se,postal address,
+jobseek_own_192,jobseek_192,K45,,11399,STOCKHOLM,base.state_se_1439,base.se,postal address,calle.carlsson@hotsprej.se
+jobseek_own_193,jobseek_193,Ormbergsvägen 12,,11767,STOCKHOLM,base.state_se_1440,base.se,postal address,barbro.dagh@msn.com
+jobseek_own_194,jobseek_194,Ormbergsvägen12,,11767,STOCKHOLM,base.state_se_1441,base.se,postal address,
+jobseek_own_195,jobseek_195,Ormbergsvägen 12,,11767,STOCKHOLM,base.state_se_1442,base.se,postal address,ulf.thor@arbetsformedlingen.se
+jobseek_own_196,jobseek_196,Ormbergsvägen 12,,11767,Stockholm,base.state_se_1443,base.se,postal address,
+jobseek_own_197,jobseek_197,K45,,11399,STOCKHOLM,base.state_se_1444,base.se,postal address,
+jobseek_own_198,jobseek_198,K45,,11399,STOCKHOLM,base.state_se_1445,base.se,postal address,
+jobseek_own_199,jobseek_199,k45,,11399,Stockholm,base.state_se_1446,base.se,postal address,
+jobseek_own_201,jobseek_201,K45,,11399,Stockholm,base.state_se_1447,base.se,postal address,
+jobseek_own_202,jobseek_202,Observatoriegatan,,11399,Stockholm,base.state_se_1452,base.se,postal address,xxabnx@arbetsformedlingen.se
+jobseek_own_203,jobseek_203,Gatan 11,,80591,Gävle,base.state_se_1460,base.se,postal address,
+jobseek_own_204,jobseek_204,K45,,11399,Stockholm,base.state_se_1461,base.se,postal address,
+jobseek_own_205,jobseek_205,Kragstalundsvägen 130,,18654,Vallentuna,base.state_se_1462,base.se,postal address,sdfsdf@ggdfs.ml
+jobseek_own_206,jobseek_206,Kragstalundsvägen 130,,18654,Vallentuna,base.state_se_1463,base.se,postal address,
+jobseek_own_207,jobseek_207,Kragstalundsvägen 130,,18654,Vallentuna,base.state_se_1465,base.se,postal address,
+jobseek_own_208,jobseek_208,Tingsvägen 19,,19121,SOLLENTUNA,base.state_se_1466,base.se,postal address,
+jobseek_own_209,jobseek_209,Globen,,11399,Stockholm,base.state_se_1470,base.se,postal address,
+jobseek_own_211,jobseek_211,V17,,11399,STOCKHOLM,base.state_se_1471,base.se,postal address,
+jobseek_own_212,jobseek_212,V17,,11399,STOCKHOLM,base.state_se_1472,base.se,postal address,a@a.se
+jobseek_own_213,jobseek_213,Kilbergsv. 26D,,82151,bollnäs,base.state_se_1473,base.se,postal address,
+jobseek_own_214,jobseek_214,K45,,11399,Stockholm,base.state_se_1480,base.se,postal address,
+jobseek_own_215,jobseek_215,K45,,11399,STOCKHOLM,base.state_se_1481,base.se,postal address,
+jobseek_own_216,jobseek_216,K45,,11399,STOCKHOLM,base.state_se_1482,base.se,postal address,
+jobseek_own_217,jobseek_217,K45,,11399,Stockholm,base.state_se_1484,base.se,postal address,
+jobseek_own_218,jobseek_218,K45,,11399,Stockholm,base.state_se_1485,base.se,postal address,
+jobseek_own_219,jobseek_219,K45,,11399,STOCKHOLM,base.state_se_1486,base.se,postal address,evaberg1@sverige.se
+jobseek_own_220,jobseek_220,K45,,11399,Stockholm,base.state_se_1487,base.se,postal address,
+jobseek_own_221,jobseek_221,K45,,11399,STOCKHOLM,base.state_se_1488,base.se,postal address,ulf.thor@lane.amv.se
+jobseek_own_222,jobseek_222,K45,,11399,STOCKHOLM,base.state_se_1489,base.se,postal address,ulf.thot@lane.amv.se
+jobseek_own_223,jobseek_223,K45,,11399,Stockholm,base.state_se_1490,base.se,postal address,
+jobseek_own_224,jobseek_224,K45,,11399,Stockholm,base.state_se_1491,base.se,postal address,
+jobseek_own_225,jobseek_225,Ormbergsvägen 12,,11767,Stockholm,base.state_se_1492,base.se,postal address,viktor@hotmail.com
+jobseek_own_226,jobseek_226,Ormbergsvägen 12,,11767,STOCKHOLM,base.state_se_1493,base.se,postal address,
+jobseek_own_227,jobseek_227,Ormbergsvägen 12,,11767,STOCKHOLM,base.state_se_1494,base.se,postal address,
+jobseek_own_228,jobseek_228,Ormbergsvägen 12,,11767,Stockholm,base.state_se_1495,base.se,postal address,
+jobseek_own_229,jobseek_229,Ormbergsvägen 12,,11767,Stockholm,base.state_se_1496,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_230,jobseek_230,Ormbergsvägen 12,,11767,Stockholm,base.state_se_1497,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_231,jobseek_231,Ormbergsvägen 12,,11767,STOCKHOLM,base.state_se_1498,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_233,jobseek_233,g,,16735,BROMMA,base.state_se_1499,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_235,jobseek_235,testvägen 1,,11399,stockholm,base.state_se_1715,base.se,postal address,
+jobseek_own_236,jobseek_236,Testvägen 1,,11399,stockholm,base.state_se_1730,base.se,postal address,
+jobseek_own_237,jobseek_237,K45,,11399,STOCKHOLM,base.state_se_1737,base.se,postal address,
+jobseek_own_239,jobseek_239,K45,,11399,STOCKHOLM,base.state_se_1760,base.se,postal address,
+jobseek_own_240,jobseek_240,K45,,11399,STOCKHOLM,base.state_se_1761,base.se,postal address,
+jobseek_own_241,jobseek_241,K45,,11399,STOCKHOLM,base.state_se_1762,base.se,postal address,goran.lindberg@arbetsformedlingen.se
+jobseek_own_242,jobseek_242,K45,,11399,STOCKHOLM,base.state_se_1763,base.se,postal address,
+jobseek_own_243,jobseek_243,Ormbergsvägen 12,,11767,Stockholm,base.state_se_1764,base.se,postal address,andreas.sjogren@ams.amv.se
+jobseek_own_244,jobseek_244,Ormbergsvägen 12,,11767,STOCKHOLM,base.state_se_1765,base.se,postal address,
+jobseek_own_245,jobseek_245,Ormbergsvägen 12,,11767,STOCKHOLM,base.state_se_1766,base.se,postal address,
+jobseek_own_247,jobseek_247,V17,,11399,STOCKHOLM,base.state_se_1780,base.se,postal address,a@a.se
+jobseek_own_248,jobseek_248,V17,,11399,STOCKHOLM,base.state_se_1781,base.se,postal address,
+jobseek_own_251,jobseek_251,Testvägen 2396,,11399,Stockholm,base.state_se_1782,base.se,postal address,
+jobseek_own_252,jobseek_252,Testvägen 5191,,11399,Stockholm,base.state_se_1783,base.se,postal address,
+jobseek_own_253,jobseek_253,Karlavägen 98,,12346,Farsta,base.state_se_1784,base.se,postal address,jonas.johnsson@jobb.amv.abc
+jobseek_own_254,jobseek_254,Testvägen 3575,,12334,Farsta,base.state_se_1785,base.se,postal address,
+jobseek_own_255,jobseek_255,Karlavägen 98,,12346,Farsta,base.state_se_1814,base.se,postal address,
+jobseek_own_256,jobseek_256,Testvägen 2725,,11399,STOCKHOLM,base.state_se_1860,base.se,postal address,
+jobseek_own_257,jobseek_257,Karlavägen 98,,12346,Farsta,base.state_se_1861,base.se,postal address,
+jobseek_own_258,jobseek_258,V 17,,11399,Stockholm,base.state_se_1862,base.se,postal address,
+jobseek_own_259,jobseek_259,Testvägen 2384,,11399,Stockholm,base.state_se_1863,base.se,postal address,
+jobseek_own_262,jobseek_262,Upplandsgatan 51,,11328,Stockholm,base.state_se_1864,base.se,postal address,
+jobseek_own_263,jobseek_263,Upplandsgatan 51,,11328,Stockholm,base.state_se_1880,base.se,postal address,
+jobseek_own_264,jobseek_264,Upplandsgatan 51,,11328,STOCKHOLM,base.state_se_1881,base.se,postal address,
+jobseek_own_265,jobseek_265,Upplandsgatan 51,,11328,STOCKHOLM,base.state_se_1882,base.se,postal address,
+jobseek_own_267,jobseek_267,Lomvägen 14,,83162,Östersund,base.state_se_1883,base.se,postal address,
+jobseek_own_268,jobseek_268,A 32,,10152,STOCKHOLM,base.state_se_1884,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_269,jobseek_269,Moon Base 1,,82735,LJUSDAL,base.state_se_1885,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_intl_274,jobseek_274,Utländskadress i utlandet,Kartongen vid bron,,,,base.fi,foreign address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_275,jobseek_275,Huppgränd 22,,12054,ÅRSTA,base.state_se_1907,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_276,jobseek_276,Yxvägen 22,,44444,STENUNGSUND,base.state_se_1960,base.se,postal address,per.julius@mail.se
+jobseek_own_277,jobseek_277,Musgränd 22,,12054,ÅRSTA,base.state_se_1961,base.se,postal address,mans.lindh@arbetsformedlingen.se
+jobseek_own_278,jobseek_278,Slipsvägen 33,,55555,Uschtad,base.state_se_1962,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_279,jobseek_279,Svängen 44,,88888,Nickel,base.state_se_1980,base.se,postal address,
+jobseek_intl_280,jobseek_280,lepalfjfi23,Ormbergsvägen 12,,,,base.is,foreign address,
+jobseek_own_281,jobseek_281,Ulvägen 44,,22222,LUND,base.state_se_1982,base.se,postal address,
+jobseek_own_282,jobseek_282,Storgatan 12,,55111,JÖNKÖPING,base.state_se_1983,base.se,postal address,
+jobseek_own_284,jobseek_284,Smulgränd 44,,11111,Ståckålm,base.state_se_1984,base.se,postal address,
+jobseek_own_285,jobseek_285,Dråttninghålmsgatan 22,,99999,Slåttet,base.state_se_2021,base.se,postal address,
+jobseek_own_286,jobseek_286,Mockvägen 33,,33333,SMÅLANDSSTENAR,base.state_se_2023,base.se,postal address,
+jobseek_own_287,jobseek_287,Smultronstigen 3,,65594,KARLSTAD,base.state_se_2026,base.se,postal address,
+jobseek_own_288,jobseek_288,Festvägen 14,,44444,STENUNGSUND,base.state_se_2029,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_289,jobseek_289,Rövaregatan 2,,11261,STOCKHOLM,base.state_se_2031,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_290,jobseek_290,Sundbybergsvägen 9,,17199,SOLNA,base.state_se_2034,base.se,postal address,ing-marie.rosqvist@ams.amv.se
+jobseek_own_291,jobseek_291,Skonertgatan 21 a,,42674,VÄSTRA FRÖLUNDA,base.state_se_2039,base.se,postal address,
+jobseek_own_292,jobseek_292,Frejgatan 1,,87153,HÄRNÖSAND,base.state_se_2061,base.se,postal address,
+jobseek_own_293,jobseek_293,Storgatan 15,,76100,NORRTÄLJE,base.state_se_2062,base.se,postal address,
+jobseek_own_294,jobseek_294,Ringvägen 1,,87160,HÄRNÖSAND,base.state_se_2080,base.se,postal address,
+jobseek_own_295,jobseek_295,Ringvägen 1,,87160,HÄRNÖSAND,base.state_se_2081,base.se,postal address,
+jobseek_own_296,jobseek_296,Rövaregatan 12,,11261,STOCKHOLM,base.state_se_2082,base.se,postal address,
+jobseek_own_297,jobseek_297,Kulgatan 8,,53334,GÖTENE,base.state_se_2083,base.se,postal address,
+jobseek_own_298,jobseek_298,storg1,,11399,STOCKHOLM,base.state_se_2084,base.se,postal address,
+jobseek_own_299,jobseek_299,Sommarv 25,,67141,ARVIKA,base.state_se_2085,base.se,postal address,ulf.thor@arbetsformedlingen.se
+jobseek_intl_300,jobseek_300,Oulu i finland,Blåbärsvägen 22,,,,base.fi,foreign address,
+jobseek_own_301,jobseek_301,Bovägen 6,,86131,TIMRÅ,base.state_se_2104,base.se,postal address,
+jobseek_own_302,jobseek_302,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_2121,base.se,postal address,
+jobseek_own_303,jobseek_303,artärvägen 7,,74332,STORVRETA,base.state_se_2132,base.se,postal address,
+jobseek_own_304,jobseek_304,sdfj,,62158,VISBY,base.state_se_2161,base.se,postal address,
+jobseek_own_305,jobseek_305,Mårdvägen,,66532,KIL,base.state_se_2180,base.se,postal address,
+jobseek_own_306,jobseek_306,Bygatan 33,,87162,HÄRNÖSAND,base.state_se_2181,base.se,postal address,jennie.jacobsson@ams.amv.se
+jobseek_own_307,jobseek_307,Andersväg 4,,31100,FALKENBERG,base.state_se_2182,base.se,postal address,therese.almberg@arbetsformedlingen.se
+jobseek_own_308,jobseek_308,Hemma 1,,41319,GÖTEBORG,base.state_se_2183,base.se,postal address,kirk@moonbase.se
+jobseek_own_309,jobseek_309,husvägen,,65341,KARLSTAD,base.state_se_2184,base.se,postal address,
+jobseek_own_310,jobseek_310,Smedjevägen 1,,87153,HÄRNÖSAND,base.state_se_2260,base.se,postal address,
+jobseek_own_311,jobseek_311,Skogshult 345,,87152,HÄRNÖSAND,base.state_se_2262,base.se,postal address,
+jobseek_own_317,jobseek_317,sdaf 45 x,,13025,Ingmarsö,base.state_se_2280,base.se,postal address,
+jobseek_own_336,jobseek_336,Forellvägen 2,,83253,FRÖSÖN,base.state_se_2281,base.se,postal address,kurre@kulvert.bron
+jobseek_own_337,jobseek_337,Flon 105,,83296,FRÖSÖN,base.state_se_2282,base.se,postal address,
+jobseek_own_338,jobseek_338,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_2283,base.se,postal address,bosse@brutal.skrutt
+jobseek_own_339,jobseek_339,Fatbursgränd 2,,19477,UPPLANDS VÄSBY,base.state_se_2284,base.se,postal address,ulve@fraswaffel.tysk
+jobseek_own_340,jobseek_340,Brunnsgatan 2,,41312,GÖTEBORG,base.state_se_2303,base.se,postal address,vulgert@vessla.skrutt
+jobseek_own_341,jobseek_341,Bäckegatan 18,,41316,GÖTEBORG,base.state_se_2305,base.se,postal address,ulmert@krook.rupp
+jobseek_own_342,jobseek_342,Bockhornsgatan 1,,41317,GÖTEBORG,base.state_se_2309,base.se,postal address,
+jobseek_own_343,jobseek_343,Bågskyttestigen 2,,41319,GÖTEBORG,base.state_se_2313,base.se,postal address,plutgert@vinckel.null
+jobseek_own_344,jobseek_344,Bågskyttebacken 1,,41319,GÖTEBORG,base.state_se_2321,base.se,postal address,helen.johansson@telia.com
+jobseek_own_345,jobseek_345,Bulteklubbsgatan 18,,41301,GÖTEBORG,base.state_se_2326,base.se,postal address,wilma@koffert.lås
+jobseek_own_346,jobseek_346,Brunnsgatan 14,,41312,GÖTEBORG,base.state_se_2361,base.se,postal address,solvia@sommarblatt.klut
+jobseek_own_347,jobseek_347,Brogatan 2,,41301,GÖTEBORG,base.state_se_2380,base.se,postal address,prudentia@stilfull.suck
+jobseek_own_348,jobseek_348,Brogatan 1,,41301,GÖTEBORG,base.state_se_2401,base.se,postal address,
+jobseek_own_349,jobseek_349,Brogatan 1,,41301,GÖTEBORG,base.state_se_2403,base.se,postal address,drille@slangklämma.smock
+jobseek_own_350,jobseek_350,Brogatan 1,,41301,GÖTEBORG,base.state_se_2404,base.se,postal address,
+jobseek_own_351,jobseek_351,Brogatan 1,,41301,GÖTEBORG,base.state_se_2409,base.se,postal address,uffe.kallin@ams.amv.se
+jobseek_own_352,jobseek_352,Brunnsgatan 1,,41312,GÖTEBORG,base.state_se_2417,base.se,postal address,
+jobseek_own_353,jobseek_353,Bäckegatan 23,,41316,GÖTEBORG,base.state_se_2418,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_354,jobseek_354,Bockhornsgatan 2,,41317,GÖTEBORG,base.state_se_2421,base.se,postal address,
+jobseek_own_355,jobseek_355,Storgatan 1,,11383,STOCKHOLM,base.state_se_2422,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_356,jobseek_356,Testadress,,11111,Testpostort,base.state_se_2425,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_357,jobseek_357,Hälsingegatan 38,,17069,SOLNA,base.state_se_2460,base.se,postal address,
+jobseek_own_358,jobseek_358,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_2462,base.se,postal address,
+jobseek_own_359,jobseek_359,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_2463,base.se,postal address,
+jobseek_own_360,jobseek_360,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_2480,base.se,postal address,
+jobseek_own_361,jobseek_361,Djurvägen 44,,66932,Deje,base.state_se_2481,base.se,postal address,bvamabAAAA@g33k.se
+jobseek_own_362,jobseek_362,Hemvägen 1,,86131,TIMRÅ,base.state_se_2482,base.se,postal address,
+jobseek_own_363,jobseek_363,Holmstagatan 15,,60354,NORRKÖPING,base.state_se_2505,base.se,postal address,
+jobseek_own_364,jobseek_364,Reformgatan 8,,11399,STOCKHOLM,base.state_se_2506,base.se,postal address,
+jobseek_own_365,jobseek_365,Kanta 1,,87010,ÄLANDSBRO,base.state_se_2510,base.se,postal address,
+jobseek_own_366,jobseek_366,Magistervägen 8,,43250,VARBERG,base.state_se_2513,base.se,postal address,
+jobseek_own_367,jobseek_367,Nilsagårdsgatan 33,,33344,NILSABO,base.state_se_2514,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_369,jobseek_369,Ladan 18,,87010,ÄLANDSBRO,base.state_se_2518,base.se,postal address,
+jobseek_own_370,jobseek_370,storg1,,11399,STOCKHOLM,base.state_se_2521,base.se,postal address,
+jobseek_own_371,jobseek_371,storg1,,11399,STOCKHOLM,base.state_se_2523,base.se,postal address,
+jobseek_own_373,jobseek_373,Bovägen 6,,86131,TIMRÅ,base.state_se_2560,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_374,jobseek_374,Bovägen 6,,86131,TIMRÅ,base.state_se_2580,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_intl_375,jobseek_375,11234 Achburg,Stervererv. 15,,,,base.de,foreign address,
+jobseek_own_376,jobseek_376,Bovägen 6,,86131,Timrå,base.state_se_2582,base.se,postal address,ulrika.von.systemtest@hotmail.com
+jobseek_own_377,jobseek_377,Bovägen 6,,86131,TIMRÅ,base.state_se_2583,base.se,postal address,lisa.karlsson@spray.se
+jobseek_own_378,jobseek_378,Bockvägen 44,,22222,LUND,base.state_se_2584,base.se,postal address,
+jobseek_own_379,jobseek_379,Slipvägen 33,,33333,SMÅLANDSSTENAR,base.state_se_0114,base.se,postal address,staffan.svard@arbetsformedlingen.se
+jobseek_own_381,jobseek_381,Tintovägen 44,,55555,RUFFINO,base.state_se_0114,base.se,postal address,nio9@yahoo.se
+jobseek_own_382,jobseek_382,Hulkgränd 44,,88888,Kattegatt,base.state_se_0114,base.se,postal address,haile.selassie@gmail.com
+jobseek_own_384,jobseek_384,Blomstervägen 44,,99999,Rosenkrog,base.state_se_0114,base.se,postal address,blahaba@hotmale.com
+jobseek_own_386,jobseek_386,Smitvägen 33,,44444,STENUNGSUND,base.state_se_0114,base.se,postal address,
+jobseek_own_387,jobseek_387,Gamla gatan 1,,14652,TULLINGE,base.state_se_0114,base.se,postal address,kola@ams.se
+jobseek_own_388,jobseek_388,Målvägen 33,,44444,STENUNGSUND,base.state_se_0114,base.se,postal address,jontegrabben71@hotmail.com
+jobseek_own_389,jobseek_389,Franska gatan,,14652,TULLINGE,base.state_se_0114,base.se,postal address,
+jobseek_own_390,jobseek_390,Franska gatan 1,,14652,Tullinge,base.state_se_0114,base.se,postal address,ais_xptest@telia.com
+jobseek_own_391,jobseek_391,Franska vägen 1,,14652,TULLINGE,base.state_se_0114,base.se,postal address,
+jobseek_own_392,jobseek_392,Franska vägen 1,,14652,TULLINGE,base.state_se_0114,base.se,postal address,
+jobseek_own_393,jobseek_393,Franska vägen 1,,14652,TULLINGE,base.state_se_0114,base.se,postal address,
+jobseek_own_394,jobseek_394,franska vägen 1,,14652,TULLINGE,base.state_se_0114,base.se,postal address,
+jobseek_own_395,jobseek_395,Gyllen KnOrren,,14652,TULLINGE,base.state_se_0114,base.se,postal address,
+jobseek_own_396,jobseek_396,Plitvägen 33,,33333,SMÅLANDSSTENAR,base.state_se_0114,base.se,postal address,
+jobseek_own_397,jobseek_397,Fruktvägen 44,,55555,Äppelviken,base.state_se_0114,base.se,postal address,
+jobseek_own_398,jobseek_398,hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_399,jobseek_399,Bovägen 6,,86131,Timrå,base.state_se_0114,base.se,postal address,
+jobseek_own_400,jobseek_400,Rövaregatan 3,,11261,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_401,jobseek_401,Dagvägen 1,,87162,HÄRNÖSAND,base.state_se_0114,base.se,postal address,
+jobseek_own_402,jobseek_402,Bovägen 6,,86131,Timrå,base.state_se_0114,base.se,postal address,
+jobseek_own_403,jobseek_403,Ekvägen 12,,11399,Stockholm,base.state_se_0114,base.se,postal address,
+jobseek_own_404,jobseek_404,Aladdins väg 5,,11386,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_405,jobseek_405,Krumulur 1,,87010,ÄLANDSBRO,base.state_se_0114,base.se,postal address,
+jobseek_own_406,jobseek_406,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_407,jobseek_407,hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_408,jobseek_408,angerwdstorg 23,,42434,ANGERED,base.state_se_0114,base.se,postal address,
+jobseek_own_410,jobseek_410,Lergatan 1,,87153,HÄRNÖSAND,base.state_se_0114,base.se,postal address,
+jobseek_own_411,jobseek_411,kallebäcksv 20,,41225,GÖTEBORG,base.state_se_0114,base.se,postal address,
+jobseek_own_412,jobseek_412,Reformgatan 5,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_413,jobseek_413,Bovägen 6,,86131,Timrå,base.state_se_0114,base.se,postal address,
+jobseek_own_415,jobseek_415,Skogsstigen 1,,87153,HÄRNÖSAND,base.state_se_0114,base.se,postal address,
+jobseek_own_416,jobseek_416,Rövaregatan 13,,11261,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_417,jobseek_417,asdfh 45,,11241,Stockholm,base.state_se_0114,base.se,postal address,
+jobseek_own_418,jobseek_418,Aragatan 7,,62100,VISBY,base.state_se_0114,base.se,postal address,
+jobseek_own_419,jobseek_419,Höstg 15,,24334,HÖÖR,base.state_se_0114,base.se,postal address,
+jobseek_own_420,jobseek_420,Gillev 18,,13133,NACKA,base.state_se_0114,base.se,postal address,
+jobseek_own_421,jobseek_421,Höstg 15,,23434,LOMMA,base.state_se_0114,base.se,postal address,staffan.svard@arbetsformedlingen.se
+jobseek_own_422,jobseek_422,Sivägen 5,,57080,VIRSERUM,base.state_se_0114,base.se,postal address,
+jobseek_own_424,jobseek_424,Sherwoodskogen 0,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_425,jobseek_425,Hemvägen 1,,86131,TIMRÅ,base.state_se_0114,base.se,postal address,
+jobseek_own_427,jobseek_427,Adress,,18255,DJURSHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_428,jobseek_428,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_429,jobseek_429,stora gatan 1,,51371,ALINGSÅS,base.state_se_0114,base.se,postal address,
+jobseek_own_430,jobseek_430,Kyrkogatan 17,,57132,NÄSSJÖ,base.state_se_0114,base.se,postal address,
+jobseek_own_431,jobseek_431,Helsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,svena.svensson@hotmail.com
+jobseek_own_432,jobseek_432,Testvägen 1,,87153,HÄRNÖSAND,base.state_se_0114,base.se,postal address,
+jobseek_own_433,jobseek_433,Skogsstigen,,65341,KARLSTAD,base.state_se_0114,base.se,postal address,
+jobseek_own_434,jobseek_434,Hälsingegatan 16,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_435,jobseek_435,Rosenbäcksallén 27D,,87161,HÄRNÖSAND,base.state_se_0114,base.se,postal address,
+jobseek_own_436,jobseek_436,hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_437,jobseek_437,Hälsingegatan 40,,11398,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_438,jobseek_438,Bovägen 6,,86131,TIMRÅ,base.state_se_0114,base.se,postal address,
+jobseek_own_439,jobseek_439,Rådmansgatan 5.,,46237,VÄNERSBORG,base.state_se_0114,base.se,postal address,
+jobseek_own_440,jobseek_440,Råmansgatan 7,,41566,GÖTEBORG,base.state_se_0114,base.se,postal address,
+jobseek_own_441,jobseek_441,Hemvägen 14,,12345,Stockholm,base.state_se_0114,base.se,postal address,jojopf@awsas.se
+jobseek_own_442,jobseek_442,Alströmergatan 32:20,,11247,Stockholm,base.state_se_0114,base.se,postal address,rune.sjodin@ams.amv.se
+jobseek_own_443,jobseek_443,Apberget 14,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_444,jobseek_444,Bovägen 6,,86131,TIMRÅ,base.state_se_0114,base.se,postal address,valeriana@flimmer.sug
+jobseek_own_445,jobseek_445,Gatan 53,,60229,Norrköping,base.state_se_0114,base.se,postal address,philiman@iller.snutt
+jobseek_own_446,jobseek_446,vägen 7,,12240,Enskede,base.state_se_0114,base.se,postal address,Tonten@sno.se
+jobseek_own_447,jobseek_447,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,frasse@vinckelkrook.smutt
+jobseek_own_448,jobseek_448,hälsingegatan,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,wilhelmina@vicker.risk
+jobseek_own_449,jobseek_449,hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,milla@velour.husk
+jobseek_own_450,jobseek_450,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_453,jobseek_453,helsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,sivert@snedtraff.fruk
+jobseek_own_454,jobseek_454,tunnelgatan 11,,11137,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_455,jobseek_455,Hälsingegatan 40,,11343,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_456,jobseek_456,"Hälsingegatan 40, plan 4",,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_457,jobseek_457,Rådmansgatan 5,,41542,GÖTEBORG,base.state_se_0114,base.se,postal address,
+jobseek_own_458,jobseek_458,Barnarpsgatan 40,,55111,JÖNKÖPING,base.state_se_0114,base.se,postal address,
+jobseek_own_459,jobseek_459,Fornv 19,,58951,Linköping,base.state_se_0114,base.se,postal address,
+jobseek_own_460,jobseek_460,Reformgatan 3,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_461,jobseek_461,Kungsgatan 37,,11230,STOCKHOLM,base.state_se_0114,base.se,postal address,kurre@bakrus.klut
+jobseek_own_462,jobseek_462,Storholmsvägen 1,,13252,SALTSJÖ-BOO,base.state_se_0114,base.se,postal address,baldo@banan.gris
+jobseek_own_463,jobseek_463,Mercuriusvägen 1,,13241,SALTSJÖ-BOO,base.state_se_0114,base.se,postal address,
+jobseek_own_464,jobseek_464,Barnhemsvägen 10,,13146,NACKA,base.state_se_0114,base.se,postal address,kola@ams.se
+jobseek_own_465,jobseek_465,Sten stures väg 1,,13147,NACKA,base.state_se_0114,base.se,postal address,rovare@gmail.com
+jobseek_own_466,jobseek_466,Syrenvägen 1,,12065,STOCKHOLM,base.state_se_0114,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_467,jobseek_467,Blå Stråket 2,,41346,GÖTEBORG,base.state_se_0114,base.se,postal address,billybutthead@spray.se
+jobseek_own_468,jobseek_468,Bergkantsgatan 6,,83162,östersund,base.state_se_0114,base.se,postal address,
+jobseek_own_469,jobseek_469,Bruna Stråket 1,,41346,GÖTEBORG,base.state_se_0114,base.se,postal address,birgitta.heijer@lanab.amv.se
+jobseek_own_470,jobseek_470,Hamngatan 1,,56148,HUSKVARNA,base.state_se_0114,base.se,postal address,
+jobseek_own_471,jobseek_471,Björnbärsvägen 60,,66432,GRUMS,base.state_se_0114,base.se,postal address,
+jobseek_own_472,jobseek_472,Björnbärsvägen 55,,66432,GRUMS,base.state_se_0114,base.se,postal address,
+jobseek_own_473,jobseek_473,Bestyrkningsgatan 2,,66433,GRUMS,base.state_se_0114,base.se,postal address,alex-h@hotmail.com
+jobseek_own_474,jobseek_474,Bruna stråket 2,,41346,GÖTEBORG,base.state_se_0114,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_475,jobseek_475,Billerudsgatan 6,,66433,GRUMS,base.state_se_0114,base.se,postal address,per.isaksson@swipnet.se
+jobseek_own_476,jobseek_476,Bergkantsgatan 5,,66433,GRUMS,base.state_se_0114,base.se,postal address,
+jobseek_own_477,jobseek_477,Sveavägen 1,,56148,HUSKVARNA,base.state_se_0114,base.se,postal address,
+jobseek_own_478,jobseek_478,Björknäsgatan 5,,66432,GRUMS,base.state_se_0114,base.se,postal address,marie.bystedt@arbetsformedlingen.se
+jobseek_own_479,jobseek_479,hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_480,jobseek_480,hälsningegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,test@yahoo.com
+jobseek_own_481,jobseek_481,G,,11235,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_482,jobseek_482,Bovägen 6,,86131,TIMRÅ,base.state_se_0114,base.se,postal address,
+jobseek_own_484,jobseek_484,Torget 5,,98765,ADABORG,base.state_se_0114,base.se,postal address,
+jobseek_own_485,jobseek_485,Glavavägen 23,,54544,KIL,base.state_se_0114,base.se,postal address,
+jobseek_own_486,jobseek_486,Ekvägen 55,,24134,Eslöv,base.state_se_0114,base.se,postal address,
+jobseek_own_487,jobseek_487,storg1,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,
+jobseek_own_488,jobseek_488,storg1,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,kola@ams.se
+jobseek_own_489,jobseek_489,hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,mats.liljeqvist@ams.amv.se
+jobseek_own_490,jobseek_490,Hälsningegatan,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,staffan.svard@arbetsformedlingen.se
+jobseek_own_491,jobseek_491,Kellgrensgatan 18,,51370,BORGSTENA,base.state_se_0114,base.se,postal address,
+jobseek_own_492,jobseek_492,Skolgatan 1,,11011,Stockholm,base.state_se_0114,base.se,postal address,e.almqvist@com.se
+jobseek_own_493,jobseek_493,Milano avn,,11102,STOCKHOLM,base.state_se_0114,base.se,postal address,staffan.svard@arbetsförmedlingen.se
+jobseek_own_494,jobseek_494,Sagogatan 1,,59010,BOXHOLM,base.state_se_0114,base.se,postal address,marie.bystedet@arbetsformedlingen.se
+jobseek_own_495,jobseek_495,Pastellvägen 100,,58111,LINKÖPING,base.state_se_0114,base.se,postal address,
+jobseek_own_496,jobseek_496,Vägen 2,,17121,SOLNA,base.state_se_0114,base.se,postal address,
+jobseek_own_497,jobseek_497,Hälsingegatan 38,,11399,STOCKHOLM,base.state_se_0114,base.se,postal address,ulrika.martin@ams.amv.se
+jobseek_own_498,jobseek_498,Ryttarvägen 11,,79131,FALUN,base.state_se_0114,base.se,postal address,
+jobseek_own_499,jobseek_499,Strrgatan 14,,79131,FALUN,base.state_se_0114,base.se,postal address,
+jobseek_own_500,jobseek_500,Storvägen 14,,79131,FALUN,base.state_se_0114,base.se,postal address,e.albin@hotmaill.com
+jobseek_own_501,jobseek_501,Kungsgatan 10,,65218,KARLSTAD,base.state_se_0114,base.se,postal address,
+jobseek_own_502,jobseek_502,Svansvaägen,,12345,FARSTA,base.state_se_0114,base.se,postal address,
+jobseek_own_503,jobseek_503,Iljabacken 22,,12054,ÅRSTA,base.state_se_0114,base.se,postal address,kola@ams.se
+jobseek_own_504,jobseek_504,Bovägen 6,,86131,TIMRÅ,base.state_se_0114,base.se,postal address,
+jobseek_own_505,jobseek_505,Bovägen 6,,86131,TIMRÅ,base.state_se_0114,base.se,postal address,thorleif.skog@apberget.se
+jobseek_own_506,jobseek_506,Bovägen 6,,86131,TIMRÅ,base.state_se_0114,base.se,postal address,
+jobseek_own_507,jobseek_507,Reveljgr 1,,83138,Östersund,base.state_se_0114,base.se,postal address,
+jobseek_own_508,jobseek_508,Bovägen 6,,86131,Timrå,base.state_se_0114,base.se,postal address,test@test.se
+jobseek_own_510,jobseek_510,Bovägen 6,,86131,TIMRÅ,base.state_se_0114,base.se,postal address,
+jobseek_own_511,jobseek_511,Ja,,13436,GUSTAVSBERG,base.state_se_0114,base.se,postal address,
+jobseek_own_512,jobseek_512,Lotsvägen 4,,87153,HÄRNÖSAND,base.state_se_0114,base.se,postal address,
+jobseek_own_513,jobseek_513,Äggvägen 34,,33333,SMÅLANDSSTENAR,base.state_se_0114,base.se,postal address,
+jobseek_own_514,jobseek_514,Appelgränd 13,,12054,ÅRSTA,base.state_se_0114,base.se,postal address,
+jobseek_own_515,jobseek_515,A,,19253,SOLLENTUNA,base.state_se_0114,base.se,postal address,
+jobseek_own_516,jobseek_516,Bulvägen 55,,44444,STENUNGSUND,base.state_se_0114,base.se,postal address,
+jobseek_own_517,jobseek_517,Nickelgränd 11,,12054,ÅRSTA,base.state_se_0114,base.se,postal address,
+jobseek_own_518,jobseek_518,Jiddervägen 33,,77777,Golvdraget,base.state_se_0114,base.se,postal address,
+jobseek_own_519,jobseek_519,Halkbacken 44,,12054,ÅRSTA,base.state_se_0114,base.se,postal address,
