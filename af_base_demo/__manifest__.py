@@ -1,12 +1,9 @@
 {
-    'name': 'AF Base Demodata',
+    'name': 'AF Base Demodata DEPRECATED',
     'version': '12.0.0.2',						
     'category': '',
     'description': """
-Module to overright Odoo original demodata.
-===========================================================
-AFC-119
-
+Someone created module, just a bunch XML files same as odoo standard data
 """,
     'author': 'Vertel AB',
     'license': 'AGPL-3',

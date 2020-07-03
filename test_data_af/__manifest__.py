@@ -3,6 +3,13 @@
 {
     "name": "Test Data AF",
     "version": "12.0.1.0.1",
+    "description": """
+
+Test Data AF
+============
+This module is homemade Testdata together with some T2 data for AF.
+""",
+
     "author": "Vertel AB",
     "license": "AGPL-3",
     "website": "https://vertel.se/",

@@ -19,7 +19,7 @@
 #
 ##############################################################################
 {
-    'name': 'AF Demodata for base',
+    'name': 'AF Demodata for base DEPRECATED',
     'version': '12.0.1.0',
     'license': 'AGPL-3',
     'description': """

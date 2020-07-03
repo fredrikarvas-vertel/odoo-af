@@ -19,10 +19,13 @@
 #
 ##############################################################################
 {
-    'name': 'AF Demodata for base',
+    'name': 'AF Demodata for base DEPRECATED',
     'version': '12.0.1.0',
     'license': 'AGPL-3',
     'description': """
+
+Unclear if this modules loades data
+
 CSV File Creator -- dokumentation
 2020-03-20
 **/usr/share/odoo-af/base_afdemo/data**
